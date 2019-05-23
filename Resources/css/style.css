@@ -1,6 +1,54 @@
 .header{
-font-family:helvetica;
-color:white;
-text-align:center;
-background-image:url("../images/tower.png");
+  font-family:helvetica;
+  font-size:18px;
+  color:white;
+  text-align:center;
+  background-image:url("../images/tower.png");
+}
+
+a{
+  color:white;
+}
+
+#title{
+  font-size:70px;
+  font-weight:bold;
+}
+
+.main{
+  font-family:helvetica;
+  text-align:center;
+}
+
+.process{
+  font-size:32px;
+  font-weight:bold;
+}
+
+h3{
+  font-size:23px;
+  font-weight:bold;
+}
+
+.paragraph{
+  font-size:14px;
+}
+
+.NYstyle{
+  font-size:23px;
+  font-weight:bold;
+  color:white;
+  background-image:url("../images/tower.png");
+}
+
+footer{
+  font-family:helvetica;
+  font-size:15px;
+  color:white;
+  background-color:dimgray;
+}
+
+li {
+  display: inline;
+  text-align:left;
 }
